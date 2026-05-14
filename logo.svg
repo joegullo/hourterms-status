@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hour Terms">
+  <!--
+    Hour Terms status-page logo — "L · Spill" hourglass mark,
+    Graphite Sage palette (Identity v2). App-icon lockup: the mark on
+    a rounded-square Coal background so it stays crisp on any navbar
+    colour (light or dark). Same geometry as the product's
+    icon-admin.svg; source viewBox 144 144 512 512 mapped into a
+    44x44 region inset 10 on every side of the 64-unit canvas.
+      - Coal background  #161A1E
+      - Hourglass body   #EEEAE2  (Surface)
+      - Reclaimed pool   #5E7E68  (Sage — the one painted accent)
+  -->
+  <rect width="64" height="64" rx="14" ry="14" fill="#161A1E" />
+  <g transform="translate(10 10) scale(0.0859375) translate(-144 -144)">
+    <path d="M295.04 479.62v28.414l97.602-34.562h14.715l97.602 34.562v-28.414l-73.473-73.473v-12.301l73.473-73.473v-88.312c0-11.578-9.4141-20.992-20.992-20.992h-167.93c-11.578 0-20.992 9.4141-20.992 20.992v88.312l73.473 73.473v12.301z" fill="#EEEAE2" />
+    <path d="M403.75 494.46h-7.5039l-101.2 35.848v37.625c0 11.578 9.4141 20.992 20.992 20.992h167.94c11.578 0 20.992-9.4141 20.992-20.992v-37.629z" fill="#5E7E68" />
+  </g>
+</svg>
