@@ -59,8 +59,10 @@ status-website:
     for. Powered by [Upptime](https://upptime.js.org); no server
     required.
   navbar:
+    # href must include the baseUrl path — a bare "/" on a GitHub
+    # Pages project site points at the domain root, not this page.
     - title: Status
-      href: /
+      href: /hourterms-status/
     - title: Hour Terms
       href: https://hourterms.com
     - title: GitHub
