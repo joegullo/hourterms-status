@@ -49,6 +49,8 @@ status-website:
   # here, point that hostname at joegullo.github.io in DNS, and drop
   # this baseUrl line.
   baseUrl: /hourterms-status
+  theme: light
+  logoUrl: https://raw.githubusercontent.com/joegullo/hourterms-status/main/assets/logo.svg
   name: Hour Terms Status
   introTitle: "**Hour Terms** — service status"
   introMessage: >-
@@ -67,3 +69,38 @@ status-website:
       href: https://hourterms.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  # Graphite Sage (Identity v2) — overrides Upptime's stock `light`
+  # theme. Upptime themes are pure CSS-custom-property sets on :root;
+  # customCSS is injected after the theme stylesheet, so re-declaring
+  # the same variables is all it takes. Palette: Surface #EEEAE2,
+  # Coal #161A1E, Sage #5E7E68 (the one accent — used for "up").
+  customCSS: |
+    :root {
+      --body-background-color: #EEEAE2;
+      --body-text-color: #161A1E;
+      --card-background-color: #F7F5F0;
+      --card-border-color: #DCD6CA;
+      --nav-background-color: #F7F5F0;
+      --nav-border-bottom-color: #DCD6CA;
+      --nav-current-border-bottom-color: #5E7E68;
+      --code-color: #161A1E;
+      --code-background-color: #E4DFD5;
+      --up-border-left-color: #5E7E68;
+      --down-border-left-color: #BE3A4B;
+      --down-background-color: #F3DBDC;
+      --degraded-border-left-color: #C2902F;
+      --tag-color: #FFFFFF;
+      --tag-up-background-color: #5E7E68;
+      --tag-down-background-color: #BE3A4B;
+      --tag-degraded-background-color: #C2902F;
+      --change-background-color: #C2902F;
+      --error-button-border-color: #161A1E;
+      --error-button-background-color: #161A1E;
+      --error-button-color: #EEEAE2;
+      --submit-button-border-color: #161A1E;
+      --submit-button-background-color: #161A1E;
+      --submit-button-color: #EEEAE2;
+      --graph-opacity: 1;
+      --graph-filter: none;
+    }
+    a { text-underline-offset: 2px; }
