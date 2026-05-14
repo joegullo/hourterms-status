@@ -1,0 +1,67 @@
+# Hour Terms — Upptime status monitor configuration.
+# Docs: https://upptime.js.org/docs/configuration
+
+owner: joegullo          # GitHub account this repo lives under
+repo: hourterms-status   # This repository's name — must match the repo on GitHub
+
+# ── What we monitor ───────────────────────────────────────────────
+# Hour Terms is self-hosted: the plugin runs on each customer's own
+# server and never phones home, so there is nothing central to
+# monitor there. This status page covers ONLY Joe Gullo Digital's
+# own obligations — the marketing site and the license / update /
+# delivery backend (the "reliable release infrastructure").
+sites:
+  - name: Website
+    url: https://hourterms.com/
+
+  - name: License API
+    # Public version-metadata endpoint — no params, returns JSON.
+    # Best canary for the whole PHP license-backend layer.
+    url: https://hourterms.com/license/latest-version
+    __dangerous__body-down-if-text-missing: version
+
+  - name: Update Check
+    # The exact endpoint every customer's "Check for updates" button
+    # hits. A throwaway probe key still returns 200 + a license
+    # verdict, so it is safe to poll. MONITOR-PROBE is an obviously
+    # synthetic key — it will never collide with a real one.
+    url: https://hourterms.com/license/check-updates?license=MONITOR-PROBE
+    __dangerous__body-down-if-text-missing: license_status
+
+  - name: Stripe Webhook
+    # POST-only + signature-gated. A GET deliberately returns 405
+    # ("POST required") — that 405 is the healthy response: it proves
+    # the route resolves and PHP is alive. Anything else is a problem.
+    url: https://hourterms.com/license/webhook
+    expectedStatusCodes:
+      - 405
+
+  - name: Demo
+    url: https://hourterms.com/demo/
+
+  - name: Docs
+    url: https://hourterms.com/docs/
+
+# ── Public status page ────────────────────────────────────────────
+status-website:
+  # No custom domain yet — served at https://joegullo.github.io/hourterms-status
+  # To move it to status.hourterms.com later: add a `cname:` line
+  # here, point that hostname at joegullo.github.io in DNS, and drop
+  # this baseUrl line.
+  baseUrl: /hourterms-status
+  name: Hour Terms Status
+  introTitle: "**Hour Terms** — service status"
+  introMessage: >-
+    Live status for the Hour Terms marketing site and the license,
+    update, and delivery backend. Hour Terms itself is self-hosted —
+    it runs on your own server and never phones home — so this page
+    only reports the infrastructure Joe Gullo Digital is responsible
+    for. Powered by [Upptime](https://upptime.js.org); no server
+    required.
+  navbar:
+    - title: Status
+      href: /
+    - title: Hour Terms
+      href: https://hourterms.com
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
