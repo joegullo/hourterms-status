@@ -4,12 +4,12 @@
     "url": "https://hourterms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "74.76%",
-    "uptimeWeek": "94.46%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "97.88%",
+    "status": "down",
+    "uptime": "97.81%",
+    "uptimeDay": "82.01%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 801,
     "timeDay": 716,
     "timeWeek": 753,
@@ -22,7 +22,7 @@
       "2026-05-29": 21,
       "2026-06-03": 148,
       "2026-06-04": 291,
-      "2026-06-05": 89
+      "2026-06-05": 113
     }
   },
   {
@@ -30,12 +30,12 @@
     "url": "https://hourterms.com/license/latest-version",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "license-api",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "76.10%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "98.02%",
+    "status": "down",
+    "uptime": "97.96%",
+    "uptimeDay": "83.69%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "97.96%",
     "time": 367,
     "timeDay": 402,
     "timeWeek": 381,
@@ -48,7 +48,7 @@
       "2026-05-29": 16,
       "2026-06-03": 139,
       "2026-06-04": 272,
-      "2026-06-05": 84
+      "2026-06-05": 104
     }
   },
   {
@@ -56,12 +56,12 @@
     "url": "https://hourterms.com/license/check-updates?license=MONITOR-PROBE",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "update-check",
-    "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "77.44%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.16%",
+    "status": "down",
+    "uptime": "98.12%",
+    "uptimeDay": "85.37%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.12%",
     "time": 350,
     "timeDay": 327,
     "timeWeek": 338,
@@ -74,7 +74,7 @@
       "2026-05-29": 11,
       "2026-06-03": 129,
       "2026-06-04": 252,
-      "2026-06-05": 79
+      "2026-06-05": 94
     }
   },
   {
@@ -82,12 +82,12 @@
     "url": "https://hourterms.com/license/webhook",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "stripe-webhook",
-    "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "79.76%",
-    "uptimeWeek": "95.75%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "98.35%",
+    "status": "down",
+    "uptime": "98.32%",
+    "uptimeDay": "88.02%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
     "time": 355,
     "timeDay": 337,
     "timeWeek": 338,
@@ -100,7 +100,7 @@
       "2026-05-29": 6,
       "2026-06-03": 119,
       "2026-06-04": 218,
-      "2026-06-05": 75
+      "2026-06-05": 85
     }
   },
   {
@@ -108,12 +108,12 @@
     "url": "https://hourterms.com/demo/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "demo",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "81.03%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.51%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "89.37%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
     "time": 347,
     "timeDay": 324,
     "timeWeek": 337,
@@ -124,7 +124,7 @@
       "2026-05-25": 5,
       "2026-06-03": 109,
       "2026-06-04": 203,
-      "2026-06-05": 70
+      "2026-06-05": 75
     }
   },
   {
@@ -132,12 +132,12 @@
     "url": "https://hourterms.com/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "docs",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "83.09%",
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "91.43%",
     "uptimeWeek": "96.59%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 458,
     "timeDay": 434,
     "timeWeek": 445,
