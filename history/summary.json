@@ -4,14 +4,14 @@
     "url": "https://hourterms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "96.63%",
-    "uptimeDay": "77.14%",
-    "uptimeWeek": "90.30%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "96.63%",
+    "status": "down",
+    "uptime": "96.57%",
+    "uptimeDay": "78.85%",
+    "uptimeWeek": "90.06%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "96.57%",
     "time": 796,
-    "timeDay": 773,
+    "timeDay": 794,
     "timeWeek": 753,
     "timeMonth": 796,
     "timeYear": 796,
@@ -23,7 +23,7 @@
       "2026-06-03": 148,
       "2026-06-04": 291,
       "2026-06-05": 338,
-      "2026-06-06": 203
+      "2026-06-06": 227
     }
   },
   {
@@ -31,14 +31,14 @@
     "url": "https://hourterms.com/license/latest-version",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "license-api",
-    "status": "up",
-    "uptime": "96.87%",
-    "uptimeDay": "78.78%",
-    "uptimeWeek": "90.97%",
-    "uptimeMonth": "96.87%",
-    "uptimeYear": "96.87%",
+    "status": "down",
+    "uptime": "96.82%",
+    "uptimeDay": "80.53%",
+    "uptimeWeek": "90.78%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "96.82%",
     "time": 363,
-    "timeDay": 348,
+    "timeDay": 340,
     "timeWeek": 368,
     "timeMonth": 363,
     "timeYear": 363,
@@ -50,7 +50,7 @@
       "2026-06-03": 139,
       "2026-06-04": 272,
       "2026-06-05": 313,
-      "2026-06-06": 188
+      "2026-06-06": 208
     }
   },
   {
@@ -58,14 +58,14 @@
     "url": "https://hourterms.com/license/check-updates?license=MONITOR-PROBE",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "update-check",
-    "status": "up",
-    "uptime": "97.11%",
-    "uptimeDay": "80.46%",
-    "uptimeWeek": "91.64%",
-    "uptimeMonth": "97.11%",
-    "uptimeYear": "97.11%",
+    "status": "down",
+    "uptime": "97.07%",
+    "uptimeDay": "82.22%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "97.07%",
     "time": 347,
-    "timeDay": 338,
+    "timeDay": 350,
     "timeWeek": 335,
     "timeMonth": 347,
     "timeYear": 347,
@@ -77,7 +77,7 @@
       "2026-06-03": 129,
       "2026-06-04": 252,
       "2026-06-05": 288,
-      "2026-06-06": 174
+      "2026-06-06": 189
     }
   },
   {
@@ -85,14 +85,14 @@
     "url": "https://hourterms.com/license/webhook",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "stripe-webhook",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "82.14%",
-    "uptimeWeek": "92.45%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "84.82%",
+    "uptimeWeek": "92.49%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.40%",
     "time": 348,
-    "timeDay": 319,
+    "timeDay": 327,
     "timeWeek": 330,
     "timeMonth": 348,
     "timeYear": 348,
@@ -104,7 +104,7 @@
       "2026-06-03": 119,
       "2026-06-04": 218,
       "2026-06-05": 265,
-      "2026-06-06": 159
+      "2026-06-06": 156
     }
   },
   {
@@ -112,14 +112,14 @@
     "url": "https://hourterms.com/demo/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "demo",
-    "status": "up",
-    "uptime": "97.64%",
-    "uptimeDay": "83.83%",
-    "uptimeWeek": "93.08%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "97.64%",
+    "status": "down",
+    "uptime": "97.66%",
+    "uptimeDay": "86.16%",
+    "uptimeWeek": "93.11%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.66%",
     "time": 407,
-    "timeDay": 315,
+    "timeDay": 323,
     "timeWeek": 453,
     "timeMonth": 407,
     "timeYear": 407,
@@ -129,7 +129,7 @@
       "2026-06-03": 109,
       "2026-06-04": 203,
       "2026-06-05": 240,
-      "2026-06-06": 144
+      "2026-06-06": 141
     }
   },
   {
@@ -137,14 +137,14 @@
     "url": "https://hourterms.com/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "docs",
-    "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "85.51%",
-    "uptimeWeek": "93.80%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "97.88%",
+    "status": "down",
+    "uptime": "97.90%",
+    "uptimeDay": "87.52%",
+    "uptimeWeek": "93.84%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "97.90%",
     "time": 451,
-    "timeDay": 415,
+    "timeDay": 425,
     "timeWeek": 434,
     "timeMonth": 451,
     "timeYear": 451,
@@ -154,7 +154,7 @@
       "2026-06-03": 100,
       "2026-06-04": 178,
       "2026-06-05": 216,
-      "2026-06-06": 130
+      "2026-06-06": 126
     }
   }
 ]
