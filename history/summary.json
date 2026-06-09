@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "94.53%",
+    "uptime": "94.54%",
     "uptimeDay": "79.99%",
     "uptimeWeek": "81.63%",
-    "uptimeMonth": "94.53%",
-    "uptimeYear": "94.53%",
+    "uptimeMonth": "94.54%",
+    "uptimeYear": "94.54%",
     "time": 934,
     "timeDay": 823,
     "timeWeek": 1006,
@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "stripe-webhook",
     "status": "up",
-    "uptime": "95.91%",
-    "uptimeDay": "85.03%",
-    "uptimeWeek": "86.27%",
-    "uptimeMonth": "95.91%",
-    "uptimeYear": "95.91%",
+    "uptime": "95.94%",
+    "uptimeDay": "85.74%",
+    "uptimeWeek": "86.37%",
+    "uptimeMonth": "95.94%",
+    "uptimeYear": "95.94%",
     "time": 347,
     "timeDay": 349,
     "timeWeek": 336,
@@ -115,8 +115,7 @@
       "2026-06-05": 265,
       "2026-06-06": 185,
       "2026-06-07": 382,
-      "2026-06-08": 214,
-      "2026-06-09": 1
+      "2026-06-08": 205
     }
   },
   {
@@ -125,11 +124,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "96.30%",
-    "uptimeDay": "87.43%",
-    "uptimeWeek": "87.48%",
-    "uptimeMonth": "96.30%",
-    "uptimeYear": "96.30%",
+    "uptime": "96.32%",
+    "uptimeDay": "87.80%",
+    "uptimeWeek": "87.53%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "96.32%",
     "time": 388,
     "timeDay": 348,
     "timeWeek": 411,
@@ -143,8 +142,7 @@
       "2026-06-05": 240,
       "2026-06-06": 170,
       "2026-06-07": 359,
-      "2026-06-08": 180,
-      "2026-06-09": 2
+      "2026-06-08": 176
     }
   },
   {
@@ -154,8 +152,8 @@
     "slug": "docs",
     "status": "up",
     "uptime": "96.64%",
-    "uptimeDay": "88.77%",
-    "uptimeWeek": "88.63%",
+    "uptimeDay": "88.81%",
+    "uptimeWeek": "88.64%",
     "uptimeMonth": "96.64%",
     "uptimeYear": "96.64%",
     "time": 449,
@@ -171,8 +169,7 @@
       "2026-06-05": 216,
       "2026-06-06": 156,
       "2026-06-07": 334,
-      "2026-06-08": 161,
-      "2026-06-09": 1
+      "2026-06-08": 161
     }
   }
 ]
