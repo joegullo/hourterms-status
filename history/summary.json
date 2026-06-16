@@ -4,15 +4,15 @@
     "url": "https://hourterms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "92.98%",
-    "uptimeDay": "79.97%",
-    "uptimeWeek": "87.83%",
-    "uptimeMonth": "92.53%",
-    "uptimeYear": "92.98%",
+    "status": "down",
+    "uptime": "93.04%",
+    "uptimeDay": "78.28%",
+    "uptimeWeek": "88.23%",
+    "uptimeMonth": "92.47%",
+    "uptimeYear": "93.04%",
     "time": 883,
     "timeDay": 800,
-    "timeWeek": 764,
+    "timeWeek": 761,
     "timeMonth": 885,
     "timeYear": 883,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
       "2026-06-13": 129,
       "2026-06-14": 73,
       "2026-06-15": 211,
-      "2026-06-16": 213
+      "2026-06-16": 237
     }
   },
   {
@@ -41,15 +41,15 @@
     "url": "https://hourterms.com/license/latest-version",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "license-api",
-    "status": "up",
-    "uptime": "93.50%",
-    "uptimeDay": "80.98%",
-    "uptimeWeek": "88.74%",
-    "uptimeMonth": "93.08%",
-    "uptimeYear": "93.50%",
+    "status": "down",
+    "uptime": "93.56%",
+    "uptimeDay": "79.62%",
+    "uptimeWeek": "89.14%",
+    "uptimeMonth": "93.04%",
+    "uptimeYear": "93.56%",
     "time": 385,
     "timeDay": 439,
-    "timeWeek": 417,
+    "timeWeek": 412,
     "timeMonth": 386,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
       "2026-06-13": 115,
       "2026-06-14": 58,
       "2026-06-15": 196,
-      "2026-06-16": 209
+      "2026-06-16": 229
     }
   },
   {
@@ -78,12 +78,12 @@
     "url": "https://hourterms.com/license/check-updates?license=MONITOR-PROBE",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "update-check",
-    "status": "up",
-    "uptime": "94.02%",
-    "uptimeDay": "81.99%",
-    "uptimeWeek": "89.66%",
-    "uptimeMonth": "93.64%",
-    "uptimeYear": "94.02%",
+    "status": "down",
+    "uptime": "94.08%",
+    "uptimeDay": "80.97%",
+    "uptimeWeek": "90.05%",
+    "uptimeMonth": "93.60%",
+    "uptimeYear": "94.08%",
     "time": 349,
     "timeDay": 383,
     "timeWeek": 354,
@@ -107,7 +107,7 @@
       "2026-06-13": 100,
       "2026-06-14": 43,
       "2026-06-15": 181,
-      "2026-06-16": 204
+      "2026-06-16": 219
     }
   },
   {
@@ -115,15 +115,15 @@
     "url": "https://hourterms.com/license/webhook",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "stripe-webhook",
-    "status": "up",
-    "uptime": "94.81%",
-    "uptimeDay": "83.00%",
-    "uptimeWeek": "91.09%",
-    "uptimeMonth": "94.47%",
-    "uptimeYear": "94.81%",
+    "status": "down",
+    "uptime": "94.86%",
+    "uptimeDay": "82.31%",
+    "uptimeWeek": "91.49%",
+    "uptimeMonth": "94.45%",
+    "uptimeYear": "94.86%",
     "time": 365,
     "timeDay": 383,
-    "timeWeek": 406,
+    "timeWeek": 350,
     "timeMonth": 363,
     "timeYear": 365,
     "dailyMinutesDown": {
@@ -143,7 +143,7 @@
       "2026-06-12": 212,
       "2026-06-13": 75,
       "2026-06-15": 168,
-      "2026-06-16": 196
+      "2026-06-16": 206
     }
   },
   {
@@ -151,12 +151,12 @@
     "url": "https://hourterms.com/demo/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "demo",
-    "status": "up",
-    "uptime": "95.32%",
-    "uptimeDay": "84.01%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "95.01%",
-    "uptimeYear": "95.32%",
+    "status": "down",
+    "uptime": "95.38%",
+    "uptimeDay": "83.66%",
+    "uptimeWeek": "92.43%",
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "95.38%",
     "time": 375,
     "timeDay": 373,
     "timeWeek": 346,
@@ -177,7 +177,7 @@
       "2026-06-12": 202,
       "2026-06-13": 53,
       "2026-06-15": 158,
-      "2026-06-16": 186
+      "2026-06-16": 191
     }
   },
   {
@@ -185,15 +185,15 @@
     "url": "https://hourterms.com/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "docs",
-    "status": "up",
-    "uptime": "95.70%",
-    "uptimeDay": "85.01%",
-    "uptimeWeek": "92.61%",
+    "status": "down",
+    "uptime": "95.77%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "93.01%",
     "uptimeMonth": "95.42%",
-    "uptimeYear": "95.70%",
+    "uptimeYear": "95.77%",
     "time": 452,
     "timeDay": 505,
-    "timeWeek": 457,
+    "timeWeek": 458,
     "timeMonth": 451,
     "timeYear": 452,
     "dailyMinutesDown": {
