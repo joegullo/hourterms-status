@@ -4,15 +4,15 @@
     "url": "https://hourterms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "92.43%",
-    "uptimeDay": "80.23%",
-    "uptimeWeek": "86.68%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "92.43%",
+    "status": "down",
+    "uptime": "92.44%",
+    "uptimeDay": "78.53%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "90.54%",
+    "uptimeYear": "92.44%",
     "time": 849,
     "timeDay": 644,
-    "timeWeek": 728,
+    "timeWeek": 732,
     "timeMonth": 851,
     "timeYear": 849,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
       "2026-06-18": 131,
       "2026-06-19": 65,
       "2026-06-20": 173,
-      "2026-06-21": 260
+      "2026-06-21": 284
     }
   },
   {
@@ -46,15 +46,15 @@
     "url": "https://hourterms.com/license/latest-version",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "license-api",
-    "status": "up",
-    "uptime": "93.02%",
-    "uptimeDay": "81.91%",
-    "uptimeWeek": "87.78%",
-    "uptimeMonth": "91.33%",
-    "uptimeYear": "93.02%",
+    "status": "down",
+    "uptime": "93.03%",
+    "uptimeDay": "80.55%",
+    "uptimeWeek": "87.79%",
+    "uptimeMonth": "91.28%",
+    "uptimeYear": "93.03%",
     "time": 384,
     "timeDay": 350,
-    "timeWeek": 394,
+    "timeWeek": 393,
     "timeMonth": 387,
     "timeYear": 384,
     "dailyMinutesDown": {
@@ -80,7 +80,7 @@
       "2026-06-18": 121,
       "2026-06-19": 55,
       "2026-06-20": 158,
-      "2026-06-21": 241
+      "2026-06-21": 261
     }
   },
   {
@@ -88,15 +88,15 @@
     "url": "https://hourterms.com/license/check-updates?license=MONITOR-PROBE",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "update-check",
-    "status": "up",
-    "uptime": "93.61%",
-    "uptimeDay": "83.59%",
-    "uptimeWeek": "88.88%",
-    "uptimeMonth": "92.06%",
-    "uptimeYear": "93.61%",
+    "status": "down",
+    "uptime": "93.62%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "88.90%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "93.62%",
     "time": 347,
     "timeDay": 308,
-    "timeWeek": 345,
+    "timeWeek": 348,
     "timeMonth": 345,
     "timeYear": 347,
     "dailyMinutesDown": {
@@ -122,7 +122,7 @@
       "2026-06-18": 112,
       "2026-06-19": 45,
       "2026-06-20": 143,
-      "2026-06-21": 221
+      "2026-06-21": 236
     }
   },
   {
@@ -130,15 +130,15 @@
     "url": "https://hourterms.com/license/webhook",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "stripe-webhook",
-    "status": "up",
-    "uptime": "94.50%",
-    "uptimeDay": "86.00%",
-    "uptimeWeek": "90.72%",
-    "uptimeMonth": "93.16%",
-    "uptimeYear": "94.50%",
+    "status": "down",
+    "uptime": "94.52%",
+    "uptimeDay": "85.31%",
+    "uptimeWeek": "90.62%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "94.52%",
     "time": 359,
     "timeDay": 306,
-    "timeWeek": 343,
+    "timeWeek": 345,
     "timeMonth": 356,
     "timeYear": 359,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
       "2026-06-18": 91,
       "2026-06-19": 25,
       "2026-06-20": 118,
-      "2026-06-21": 202
+      "2026-06-21": 212
     }
   },
   {
@@ -171,15 +171,15 @@
     "url": "https://hourterms.com/demo/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "demo",
-    "status": "up",
-    "uptime": "95.04%",
-    "uptimeDay": "87.34%",
-    "uptimeWeek": "91.49%",
-    "uptimeMonth": "93.84%",
-    "uptimeYear": "95.04%",
+    "status": "down",
+    "uptime": "95.06%",
+    "uptimeDay": "86.99%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "95.06%",
     "time": 367,
     "timeDay": 306,
-    "timeWeek": 338,
+    "timeWeek": 341,
     "timeMonth": 368,
     "timeYear": 367,
     "dailyMinutesDown": {
@@ -202,7 +202,7 @@
       "2026-06-18": 81,
       "2026-06-19": 20,
       "2026-06-20": 109,
-      "2026-06-21": 182
+      "2026-06-21": 187
     }
   },
   {
@@ -210,15 +210,15 @@
     "url": "https://hourterms.com/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "docs",
-    "status": "up",
-    "uptime": "95.50%",
-    "uptimeDay": "88.68%",
+    "status": "down",
+    "uptime": "95.53%",
+    "uptimeDay": "88.67%",
     "uptimeWeek": "92.39%",
     "uptimeMonth": "94.41%",
-    "uptimeYear": "95.50%",
+    "uptimeYear": "95.53%",
     "time": 449,
     "timeDay": 399,
-    "timeWeek": 447,
+    "timeWeek": 451,
     "timeMonth": 446,
     "timeYear": 449,
     "dailyMinutesDown": {
