@@ -4,12 +4,12 @@
     "url": "https://hourterms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "94.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "94.39%",
+    "status": "down",
+    "uptime": "94.38%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "94.38%",
     "time": 830,
     "timeDay": 801,
     "timeWeek": 744,
@@ -45,7 +45,8 @@
       "2026-06-30": 13,
       "2026-07-02": 60,
       "2026-07-03": 25,
-      "2026-07-04": 25
+      "2026-07-04": 25,
+      "2026-07-08": 24
     }
   },
   {
@@ -53,11 +54,11 @@
     "url": "https://hourterms.com/license/latest-version",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "license-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "94.42%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "94.38%",
     "uptimeYear": "94.85%",
     "time": 379,
     "timeDay": 343,
@@ -94,7 +95,8 @@
       "2026-06-30": 9,
       "2026-07-02": 56,
       "2026-07-03": 20,
-      "2026-07-04": 20
+      "2026-07-04": 20,
+      "2026-07-08": 20
     }
   },
   {
@@ -102,11 +104,11 @@
     "url": "https://hourterms.com/license/check-updates?license=MONITOR-PROBE",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "update-check",
-    "status": "up",
+    "status": "down",
     "uptime": "95.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "95.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "94.96%",
     "uptimeYear": "95.33%",
     "time": 348,
     "timeDay": 362,
@@ -143,7 +145,8 @@
       "2026-06-30": 4,
       "2026-07-02": 51,
       "2026-07-03": 15,
-      "2026-07-04": 15
+      "2026-07-04": 15,
+      "2026-07-08": 15
     }
   },
   {
@@ -151,11 +154,11 @@
     "url": "https://hourterms.com/license/webhook",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "stripe-webhook",
-    "status": "up",
+    "status": "down",
     "uptime": "96.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "95.90%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "95.87%",
     "uptimeYear": "96.07%",
     "time": 356,
     "timeDay": 333,
@@ -186,7 +189,8 @@
       "2026-06-20": 118,
       "2026-06-21": 202,
       "2026-06-22": 23,
-      "2026-07-02": 46
+      "2026-07-02": 46,
+      "2026-07-08": 10
     }
   },
   {
@@ -194,12 +198,12 @@
     "url": "https://hourterms.com/demo/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "demo",
-    "status": "up",
-    "uptime": "96.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "96.35%",
-    "uptimeYear": "96.46%",
+    "status": "down",
+    "uptime": "96.47%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "96.47%",
     "time": 361,
     "timeDay": 341,
     "timeWeek": 332,
@@ -227,7 +231,8 @@
       "2026-06-20": 109,
       "2026-06-21": 182,
       "2026-06-22": 18,
-      "2026-07-02": 41
+      "2026-07-02": 41,
+      "2026-07-08": 5
     }
   },
   {
@@ -235,12 +240,12 @@
     "url": "https://hourterms.com/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "docs",
-    "status": "up",
-    "uptime": "96.82%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.83%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "96.74%",
-    "uptimeYear": "96.82%",
+    "uptimeYear": "96.83%",
     "time": 449,
     "timeDay": 480,
     "timeWeek": 445,
@@ -267,7 +272,8 @@
       "2026-06-19": 15,
       "2026-06-20": 100,
       "2026-06-21": 162,
-      "2026-07-02": 36
+      "2026-07-02": 36,
+      "2026-07-08": 0
     }
   }
 ]
