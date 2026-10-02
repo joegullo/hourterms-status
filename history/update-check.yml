@@ -1,7 +1,7 @@
 url: https://hourterms.com/license/check-updates?license=MONITOR-PROBE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-02T09:11:56.729Z
+status: up
+code: 200
+responseTime: 482
+lastUpdated: 2026-10-02T20:05:50.884Z
 startTime: 2026-05-14T20:46:44.318Z
 generator: Upptime <https://github.com/upptime/upptime>
