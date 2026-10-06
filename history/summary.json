@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "95.57%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "86.27%",
-    "uptimeMonth": "89.72%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "86.20%",
+    "uptimeMonth": "89.70%",
     "uptimeYear": "95.57%",
     "time": 803,
     "timeDay": 0,
@@ -69,7 +69,7 @@
       "2026-10-02": 675,
       "2026-10-03": 163,
       "2026-10-04": 522,
-      "2026-10-06": 24
+      "2026-10-06": 31
     }
   },
   {
@@ -79,9 +79,9 @@
     "slug": "license-api",
     "status": "down",
     "uptime": "95.80%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "86.46%",
-    "uptimeMonth": "89.92%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "86.39%",
+    "uptimeMonth": "89.90%",
     "uptimeYear": "95.80%",
     "time": 415,
     "timeDay": 0,
@@ -142,7 +142,7 @@
       "2026-10-02": 665,
       "2026-10-03": 158,
       "2026-10-04": 522,
-      "2026-10-06": 20
+      "2026-10-06": 26
     }
   },
   {
@@ -152,9 +152,9 @@
     "slug": "update-check",
     "status": "down",
     "uptime": "96.02%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "86.65%",
-    "uptimeMonth": "90.12%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "86.59%",
+    "uptimeMonth": "90.10%",
     "uptimeYear": "96.02%",
     "time": 397,
     "timeDay": 0,
@@ -215,7 +215,7 @@
       "2026-10-02": 655,
       "2026-10-03": 153,
       "2026-10-04": 523,
-      "2026-10-06": 15
+      "2026-10-06": 22
     }
   },
   {
@@ -224,11 +224,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "stripe-webhook",
     "status": "down",
-    "uptime": "65.86%",
+    "uptime": "65.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "65.86%",
+    "uptimeYear": "65.85%",
     "time": 382,
     "timeDay": 0,
     "timeWeek": 395,
@@ -263,7 +263,7 @@
       "2026-07-15": 161,
       "2026-07-29": 158,
       "2026-08-07": 51,
-      "2026-10-06": 197,
+      "2026-10-06": 204,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
@@ -320,9 +320,9 @@
     "slug": "demo",
     "status": "down",
     "uptime": "95.97%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "87.03%",
-    "uptimeMonth": "90.50%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "90.49%",
     "uptimeYear": "95.97%",
     "time": 403,
     "timeDay": 0,
@@ -382,7 +382,7 @@
       "2026-10-02": 644,
       "2026-10-03": 135,
       "2026-10-04": 523,
-      "2026-10-06": 5
+      "2026-10-06": 12
     }
   },
   {
@@ -391,11 +391,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "docs",
     "status": "down",
-    "uptime": "96.22%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "87.22%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "96.22%",
+    "uptime": "96.21%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "87.16%",
+    "uptimeMonth": "90.69%",
+    "uptimeYear": "96.21%",
     "time": 465,
     "timeDay": 0,
     "timeWeek": 423,
@@ -453,7 +453,7 @@
       "2026-10-02": 640,
       "2026-10-03": 126,
       "2026-10-04": 523,
-      "2026-10-06": 0
+      "2026-10-06": 7
     }
   }
 ]
