@@ -82,11 +82,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "license-api",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.35%",
     "uptimeDay": "65.24%",
     "uptimeWeek": "88.96%",
     "uptimeMonth": "89.43%",
-    "uptimeYear": "95.34%",
+    "uptimeYear": "95.35%",
     "time": 421,
     "timeDay": 450,
     "timeWeek": 475,
@@ -237,11 +237,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hourterms.com.ico",
     "slug": "stripe-webhook",
     "status": "down",
-    "uptime": "59.68%",
+    "uptime": "59.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.68%",
+    "uptimeYear": "59.67%",
     "time": 390,
     "timeDay": 0,
     "timeWeek": 502,
@@ -276,7 +276,7 @@
       "2026-07-15": 161,
       "2026-07-29": 158,
       "2026-08-07": 51,
-      "2026-10-21": 115,
+      "2026-10-21": 127,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -348,9 +348,9 @@
     "slug": "demo",
     "status": "up",
     "uptime": "95.39%",
-    "uptimeDay": "68.21%",
-    "uptimeWeek": "89.67%",
-    "uptimeMonth": "89.97%",
+    "uptimeDay": "68.62%",
+    "uptimeWeek": "89.73%",
+    "uptimeMonth": "89.99%",
     "uptimeYear": "95.39%",
     "time": 410,
     "timeDay": 446,
@@ -416,8 +416,7 @@
       "2026-10-09": 28,
       "2026-10-18": 171,
       "2026-10-19": 412,
-      "2026-10-20": 452,
-      "2026-10-21": 6
+      "2026-10-20": 452
     }
   },
   {
@@ -427,8 +426,8 @@
     "slug": "docs",
     "status": "up",
     "uptime": "95.63%",
-    "uptimeDay": "69.22%",
-    "uptimeWeek": "89.91%",
+    "uptimeDay": "69.29%",
+    "uptimeWeek": "89.92%",
     "uptimeMonth": "90.14%",
     "uptimeYear": "95.63%",
     "time": 467,
@@ -494,8 +493,7 @@
       "2026-10-09": 23,
       "2026-10-18": 167,
       "2026-10-19": 407,
-      "2026-10-20": 442,
-      "2026-10-21": 1
+      "2026-10-20": 442
     }
   }
 ]
