@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "down",
     "uptime": "95.20%",
-    "uptimeDay": "84.37%",
+    "uptimeDay": "84.34%",
     "uptimeWeek": "90.73%",
     "uptimeMonth": "89.00%",
     "uptimeYear": "95.20%",
@@ -76,7 +76,7 @@
       "2026-10-28": 359,
       "2026-10-29": 350,
       "2026-11-01": 201,
-      "2026-11-02": 24
+      "2026-11-02": 25
     }
   },
   {
@@ -86,7 +86,7 @@
     "slug": "license-api",
     "status": "down",
     "uptime": "95.39%",
-    "uptimeDay": "85.04%",
+    "uptimeDay": "85.01%",
     "uptimeWeek": "90.92%",
     "uptimeMonth": "89.19%",
     "uptimeYear": "95.39%",
@@ -166,7 +166,7 @@
     "slug": "update-check",
     "status": "down",
     "uptime": "95.57%",
-    "uptimeDay": "85.71%",
+    "uptimeDay": "85.68%",
     "uptimeWeek": "91.11%",
     "uptimeMonth": "89.38%",
     "uptimeYear": "95.57%",
@@ -368,7 +368,7 @@
     "slug": "demo",
     "status": "down",
     "uptime": "95.32%",
-    "uptimeDay": "87.03%",
+    "uptimeDay": "87.01%",
     "uptimeWeek": "91.49%",
     "uptimeMonth": "89.78%",
     "uptimeYear": "95.32%",
@@ -451,7 +451,7 @@
     "slug": "docs",
     "status": "down",
     "uptime": "95.55%",
-    "uptimeDay": "87.71%",
+    "uptimeDay": "87.68%",
     "uptimeWeek": "91.68%",
     "uptimeMonth": "89.94%",
     "uptimeYear": "95.55%",
@@ -523,7 +523,7 @@
       "2026-10-28": 335,
       "2026-10-29": 326,
       "2026-11-01": 177,
-      "2026-11-02": 0
+      "2026-11-02": 1
     }
   }
 ]
